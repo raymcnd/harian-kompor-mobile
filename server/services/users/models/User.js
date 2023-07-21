@@ -1,5 +1,6 @@
 const { ObjectId } = require("mongodb");
 const { getDb } = require("../config/mongoConnect");
+const { hashPassword } = require("../helpers/bcryptHelper");
 
 class User {
     static getUsers() {
@@ -33,6 +34,17 @@ class User {
         try {
             const users = this.getUsers()
             const data = await users.insertOne(input)
+            return data
+        } catch (err) {
+            throw err
+        }
+    }
+
+    static async destroy(id) {
+        try {
+            const users = this.getUsers()
+            const data = await users.deleteOne({_id: new ObjectId(id)})
+
             return data
         } catch (err) {
             throw err

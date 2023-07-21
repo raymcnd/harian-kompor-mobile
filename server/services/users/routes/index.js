@@ -9,6 +9,7 @@ router.get('/', (req, res) => {
 router.get("/users", Controller.readUsers)
 router.get("/users/:id", Controller.readUserById)
 router.post("/users", Controller.createUser)
+router.delete("/users/:id", Controller.deleteUser)
 
 
 module.exports = router
