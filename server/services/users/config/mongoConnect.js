@@ -1,4 +1,3 @@
-
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const uri = "mongodb+srv://raymcnd:YrWUyqlOyFEicNiu@cluster0.n9lp5uq.mongodb.net/?retryWrites=true&w=majority";
 
@@ -26,15 +25,11 @@ async function mongoConnect() {
         console.log(err.stack);
         await client.close();
     }
-    // finally {
-    //     await client.close();
-    // }
 }
 
 function getDb() {
   return db
 }
 
-// mongoConnect().catch(console.dir);
 module.exports = {mongoConnect, getDb}
 

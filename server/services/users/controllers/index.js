@@ -1,9 +1,14 @@
+const { hashPassword } = require("../helpers/bcryptHelper");
 const User = require("../models/User");
 
 class Controller {
     static async readUsers(req, res, next) {
         try {
-            const data = await User.findAll()
+            let data = await User.findAll()
+            data = data.map(e => {
+                delete e.password
+                return e
+            })
             res.status(200).json(data)
         } catch (err) {
             next(err)
@@ -14,6 +19,7 @@ class Controller {
         try {
             const { id } = req.params
             const data = await User.findById(id)
+            delete data.password
             res.status(200).json(data)
         } catch (err) {
             next(err)
@@ -24,12 +30,21 @@ class Controller {
         try {
             const { username, email, password, phoneNumber, address } = req.body
             const data = await User.create({
-                username, email, password, role: "admin", phoneNumber, address,
-                createdAt: new Date(), updatedAt: new Date()
+                username, email, password: hashPassword(password), role: "admin", phoneNumber, address
             })
-            res.status(200).json(`User #${data.insertedId} created`)
+            res.status(201).json(`User _id: ${data.insertedId} created`)
         } catch (err) {
             next(err)
+        }
+    }
+
+    static async deleteUser(req, res, next) {
+        try {
+            const { id } = req.params
+            await User.destroy(id)
+            res.status(200).json(`User _id: ${id} deleted`)
+        } catch (err) {
+            next(err)   
         }
     }
 }
