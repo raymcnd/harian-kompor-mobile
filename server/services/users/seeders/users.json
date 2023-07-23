@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "64ba12500ddfb4093a526959",
+        "username": "user1",
+        "email": "user1@mail.com",
+        "role": "admin",
+        "phoneNumber": "0812345678",
+        "address": "Somewhere"
+    },
+    {
+        "_id": "64ba12630ddfb4093a52695a",
+        "username": "user2",
+        "email": "user2@mail.com",
+        "role": "admin",
+        "phoneNumber": "08123456789",
+        "address": "Somewhere"
+    },
+    {
+        "_id": "64ba12730ddfb4093a52695b",
+        "username": "user3",
+        "email": "user3@mail.com",
+        "role": "admin",
+        "phoneNumber": "081234567890",
+        "address": "Somewhere"
+    }
+]

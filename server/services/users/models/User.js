@@ -33,6 +33,7 @@ class User {
     static async create(input) {
         try {
             const users = this.getUsers()
+            input.password = hashPassword(input.password)
             const data = await users.insertOne(input)
             return data
         } catch (err) {

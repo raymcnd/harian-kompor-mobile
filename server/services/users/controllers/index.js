@@ -30,7 +30,7 @@ class Controller {
         try {
             const { username, email, password, phoneNumber, address } = req.body
             const data = await User.create({
-                username, email, password: hashPassword(password), role: "admin", phoneNumber, address
+                username, email, password, role: "admin", phoneNumber, address
             })
             res.status(201).json(`User _id: ${data.insertedId} created`)
         } catch (err) {

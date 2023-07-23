@@ -1,0 +1,337 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Puluhan Bayi di Eropa Ternfeksi Virus Langka, Simak Gejalanya",
+      "slug": "Puluhan-Bayi-di-Eropa-Ternfeksi-Virus-Langka,-Simak-Gejalanya",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://images.bisnis.com/thumb/posts/2023/07/09/1673040/entevirus.jpg?w=600&h=400",
+      "createdAt": "2023-07-09T06:12:14Z",
+      "updatedAt": "2023-07-09T06:12:14Z",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 2,
+      "title": "Teleskop James Webb Sukses Ungkap Black Hole Aktif Terjauh",
+      "slug": "Teleskop-James-Webb-Sukses-Ungkap-Black-Hole-Aktif-Terjauh",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2021/03/01/ilustrasi-lubang-hitam_169.jpeg?w=650&q=90",
+      "createdAt": "2023-07-09T05:53:16Z",
+      "updatedAt": "2023-07-09T05:53:16Z",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "Awal Mula Pengantin Baru Hilang, Ternyata Temui Pacar, Lalu Diceraikan Suami",
+      "slug": "Awal-Mula-Pengantin-Baru-Hilang,-Ternyata-Temui-Pacar,-Lalu-Diceraikan-Suami",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2023/01/31/syarat-nikah-2023-di-kua_169.jpeg?w=700&q=90",
+      "createdAt": "2023-07-09T05:42:06Z",
+      "updatedAt": "2023-07-09T05:42:06Z",
+      "categoryId": 3,
+      "authorId": 3
+    },
+    {
+      "id": 4,
+      "title": "Hengkang Usai 12 Tahun Jaga Gawang MU, Total Keyaan De Gea Tembus Rp 1,1 Triliun",
+      "slug": "Hengkang-Usai-12-Tahun-Jaga-Gawang-MU,-Total-Keyaan-De-Gea-Tembus-Rp-1,1-Triliun",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://media.suara.com/suara-partners/deli/thumbs/653x367/2023/07/09/1-david-de-gea.jpg",
+      "createdAt": "2023-07-09T05:25:00Z",
+      "updatedAt": "2023-07-09T05:25:00Z",
+      "categoryId": 1,
+      "authorId": 3
+    },
+    {
+      "id": 5,
+      "title": "Terdengar Sepele, 5 Kebiasaan Kecil Ini Bantu Cegah Penyakit Jantung",
+      "slug": "Terdengar-Sepele,-5-Kebiasaan-Kecil-Ini-Bantu-Cegah-Penyakit-Jantung",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://asset.kompas.com/crops/cNX2dBqxFFj1Tm-tp74Yac43u0A=/47x111:847x644/1200x800/data/photo/2020/05/14/5ebcfb7c01853.jpg",
+      "createdAt": "2023-07-09T04:48:00Z",
+      "updatedAt": "2023-07-09T04:48:00Z",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 6,
+      "title": "Studi berikan pengetahuan lebih dalam tentang evolusi iklim Mars",
+      "slug": "Studi-berikan-pengetahuan-lebih-dalam-tentang-evolusi-iklim-Mars",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://img.antaranews.com/cache/800x533/2023/07/09/CjkinzN007025_20230709_CBMFN0A001.jpg.webp",
+      "createdAt": "2023-07-09T04:18:00Z",
+      "updatedAt": "2023-07-09T04:18:00Z",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 7,
+      "title": "Pedagang Ngeluh Skybridge Tanah Abang Berdampak Sepinya Blok G",
+      "slug": "Pedagang-Ngeluh-Skybridge-Tanah-Abang-Berdampak-Sepinya-Blok-G",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2023/07/09/muhmin-70-pedagang-di-blok-g-pasar-tanah-abang-jakarta-pusat-wildan-detikcom-1_169.jpeg?w=700&q=90",
+      "createdAt": "2023-07-09T04:09:45Z",
+      "updatedAt": "2023-07-09T04:09:45Z",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "id": 8,
+      "title": "Wakil Bupati Klaten Yoga Hardaya Hadiri Pembukaan Rakorwil PWRI Wilayah Karesidenan Surakarta 2023",
+      "slug": "Wakil-Bupati-Klaten-Yoga-Hardaya-Hadiri-Pembukaan-Rakorwil-PWRI-Wilayah-Karesidenan-Surakarta-2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://asset-2.tstatic.net/solo/foto/bank/images/Rakor-Persatuan-Wredatama-Republik-Indonesia.jpg",
+      "createdAt": "2023-07-09T03:34:38Z",
+      "updatedAt": "2023-07-09T03:34:38Z",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 9,
+      "title": "Usut Tuntas Kontroversial Al Zaytun | AKIP tvOne",
+      "slug": "Usut-Tuntas-Kontroversial-Al-Zaytun-|-AKIP-tvOne",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://thumb.viva.id/vivabandung/1265x711/2023/06/15/648a8d3bd0fdd-ponpes-al-zaytun-indramayu_bandung.jpg",
+      "createdAt": "2023-07-09T02:55:05Z",
+      "updatedAt": "2023-07-09T02:55:05Z",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "id": 10,
+      "title": "Rambut Masih Basah, Bella Bonita Malu-malu Direkam Denny Caknan Usai Malam Pertama",
+      "slug": "Rambut-Masih-Basah,-Bella-Bonita-Malu-malu-Direkam-Denny-Caknan-Usai-Malam-Pertama",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://media.suara.com/suara-partners/deli/thumbs/653x367/2023/07/09/1-foto-kolase-denny-caknan-dan-bella-bonita.jpg",
+      "createdAt": "2023-07-09T02:52:00Z",
+      "updatedAt": "2023-07-09T02:52:00Z",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 11,
+      "title": "Buset! Harga Tanah di SCBD Tembus Rp 200 Juta/M2, Setara 1 Unit Rumah Subsidi",
+      "slug": "Buset!-Harga-Tanah-di-SCBD-Tembus-Rp-200-Juta/M2,-Setara-1-Unit-Rumah-Subsidi",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2023/04/11/scbd-jakarta-2_169.jpeg?w=700&q=90",
+      "createdAt": "2023-07-09T02:34:40Z",
+      "updatedAt": "2023-07-09T02:34:40Z",
+      "categoryId": 3,
+      "authorId": 3
+    },
+    {
+      "id": 12,
+      "title": "Hasto Singgung Rekam Jejak Projo dan Bara JP: Dulu Tolak Prabowo Jadi Menteri",
+      "slug": "Hasto-Singgung-Rekam-Jejak-Projo-dan-Bara-JP:-Dulu-Tolak-Prabowo-Jadi-Menteri",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2023/04/19/sekretaris-jenderal-pdip-hasto-kristiyanto-di-stasiun-sene_169.jpeg?w=650&q=90",
+      "createdAt": "2023-07-09T02:30:24Z",
+      "updatedAt": "2023-07-09T02:30:24Z",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 13,
+      "title": "Jawaban Mahalini Saat Ditanya Kapan Nikah dengan Rizky Febian",
+      "slug": "Jawaban-Mahalini-Saat-Ditanya-Kapan-Nikah-dengan-Rizky-Febian",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://asset-a.grid.id/crop/0x0:0x0/945x630/photo/2022/09/28/cover-143jpg-20220928030245.jpg",
+      "createdAt": "2023-07-09T02:15:00Z",
+      "updatedAt": "2023-07-09T02:15:00Z",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 14,
+      "title": "Ini Dia Theia, Planet yang Diyakini Ilmuwan Tersembunyi di Perut Bumi",
+      "slug": "Ini-Dia-Theia,-Planet-yang-Diyakini-Ilmuwan-Tersembunyi-di-Perut-Bumi",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://pict.sindonews.net/dyn/732/pena/news/2023/07/09/767/1147613/ini-dia-theia-planet-yang-diyakini-ilmuwan-tersembunyi-di-perut-bumi-tdh.jpg",
+      "createdAt": "2023-07-09T02:12:24Z",
+      "updatedAt": "2023-07-09T02:12:24Z",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 15,
+      "title": "China Larang Impor Makanan gegara Jepang Buang Air Terkontaminasi Nuklir ke Laut",
+      "slug": "China-Larang-Impor-Makanan-gegara-Jepang-Buang-Air-Terkontaminasi-Nuklir-ke-Laut",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://www.baperanews.com/uploads/images/2023/07/image_750x_64ab79407448f.jpg",
+      "createdAt": "2023-07-09T02:01:24Z",
+      "updatedAt": "2023-07-09T02:01:24Z",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 16,
+      "title": "Zelensky Bawa Pulang 5 Komandan Azov dari Turki, Rusia Meradang",
+      "slug": "Zelensky-Bawa-Pulang-5-Komandan-Azov-dari-Turki,-Rusia-Meradang",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://statik.tempo.co/data/2022/09/22/id_1142819/1142819_720.jpg",
+      "createdAt": "2023-07-09T01:49:00Z",
+      "updatedAt": "2023-07-09T01:49:00Z",
+      "categoryId": 2,
+      "authorId": 3
+    },
+    {
+      "id": 17,
+      "title": "Tanpa Perlu Aplikasi Cara Mudah Membersihkan Sampah di Android, Agar HP Lebih Ringan, Ini Caranya",
+      "slug": "Tanpa-Perlu-Aplikasi-Cara-Mudah-Membersihkan-Sampah-di-Android,-Agar-HP-Lebih-Ringan,-Ini-Caranya",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://asset.kompas.com/crops/vIYl497wzOvSPoey0bCMzyZI95c=/6x0:1625x1079/750x500/data/photo/2022/12/29/63acff267084b.jpg",
+      "createdAt": "2023-07-09T01:34:00Z",
+      "updatedAt": "2023-07-09T01:34:00Z",
+      "categoryId": 3,
+      "authorId": 2
+    },
+    {
+      "id": 18,
+      "title": "WhatsApp Siapkan Fitur Baru, Pilih Stiker WA Bakal Lebih Cepat",
+      "slug": "WhatsApp-Siapkan-Fitur-Baru,-Pilih-Stiker-WA-Bakal-Lebih-Cepat",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://asset.kompas.com/crops/XAGWneTvUS8YNuayetjwVu1wlFo=/0x85:1024x768/750x500/data/photo/2022/08/30/630dda1b7fd5a.jpeg",
+      "createdAt": "2023-07-09T01:08:00Z",
+      "updatedAt": "2023-07-09T01:08:00Z",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 19,
+      "title": "Ini Dia Fitur-Fitur Unggulan Free Fire Yang Disediakan di Aplikasi FF Mod APK",
+      "slug": "Ini-Dia-Fitur-Fitur-Unggulan-Free-Fire-Yang-Disediakan-di-Aplikasi-FF-Mod-APK",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/09/05/2089770934.png",
+      "createdAt": "2023-07-09T01:08:00Z",
+      "updatedAt": "2023-07-09T01:08:00Z",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 20,
+      "title": "Viral Pengguna Bayar Tol Tanpa Setop Diberhentikan Petugas",
+      "slug": "Viral-Pengguna-Bayar-Tol-Tanpa-Setop-Diberhentikan-Petugas",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula vestibulum dui. Aliquam eleifend varius dolor, vel varius purus commodo at. Aenean ligula lorem, semper et risus vitae, commodo maximus lectus. Aliquam nec tempus nisl. Etiam pharetra hendrerit ante, a consequat eros commodo id. Fusce vitae risus dapibus, sagittis diam nec, porttitor nisi. Phasellus malesuada dolor in nisl dictum, ac blandit mauris dapibus. Sed luctus nibh mauris, in tempor velit interdum quis. Donec pulvinar tristique nisl quis consequat. Nunc auctor mauris lectus, non commodo erat venenatis auctor. In sollicitudin erat et sollicitudin malesuada. Ut ultrices lacus et orci dapibus faucibus. Etiam tristique nibh nec odio tincidunt facilisis. Ut aliquet diam at erat fermentum pulvinar. Pellentesque auctor porttitor orci, sit amet feugiat tellus iaculis a.\n\n            Sed tellus sem, scelerisque at nisi a, tincidunt aliquam justo. Sed faucibus est eget dui pharetra ornare. Sed lobortis sapien odio, eget congue dui mollis sit amet. Morbi tincidunt risus orci, eleifend feugiat augue pharetra id. Proin ut purus vestibulum, dictum nulla ut, egestas erat. Quisque tincidunt pharetra lacus facilisis mollis. Nullam tristique leo metus, id facilisis diam convallis semper. Etiam commodo dictum lacinia. Vestibulum faucibus urna nec aliquam molestie. Fusce id erat volutpat, pharetra est ultrices, dignissim ligula. In placerat ac nisi a accumsan. In lobortis libero at hendrerit luctus. Fusce congue luctus ligula, sed tincidunt neque vehicula ut. Aliquam sem urna, imperdiet at rhoncus a, interdum eu nulla. Aenean justo justo, sodales eu ex in, vestibulum ultricies dolor.\n            \n            Mauris lectus justo, vestibulum sed volutpat vel, molestie id lorem. Aenean feugiat egestas nulla non egestas. Nullam elementum tellus magna. Nulla eu ultrices sapien. Aliquam tincidunt molestie ornare. Donec imperdiet tortor massa, nec rhoncus sem porta et. Pellentesque at volutpat purus. Aliquam quis maximus diam. Aenean finibus mi sed consectetur aliquam. Morbi leo nisi, feugiat iaculis dui sit amet, ultricies elementum metus.",
+      "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2021/03/24/bayar-tol-tanpa-setop-4.jpeg?w=1200",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z",
+      "categoryId": 3,
+      "authorId": 2
+    },
+    {
+      "title": "Akibat Salah Pasang Foto Terkait Pembunuhan Bayi, Seorang Biduan Melaporkan Salah Satu Media Online Terkenal",
+      "slug": "Akibat-Salah-Pasang-Foto-Terkait-Pembunuhan-Bayi,-Seorang-Biduan-Melaporkan-Salah-Satu-Media-Online-Terkenal",
+      "content": "Telah terjadi peristiwa aras kekeliruan informasi yang diketahui oleh VA pada Minggu (11/6/2023) ketika dirinya tiba-tiba dihubungi banyak kerabat dan teman-temannya.\n\nHariyanto selaku pengacara VA menjelaskan, pada saat itu rekan-rekan kliennya tiba-tiba menanyakan terkait kebenaran informasi yang muncul dari sebuah media tersebut kepada korban.\n\n\"Minggu pagi muncul beritanya dan itu jadi menyebar ke mana mana. Di tiktok, instagram, media online dan sebagainya,\" jelasnya.\n\nDalam pelaporannya, Hariyanto bersama korban sudah menyiapkan barang bukti screenshot foto VA yang dimuat di media terlapor.\n\n\"Barang bukti beberapa screenshot media menampilkan sosok biduan yang bukan pelakunya tapi narasinya pembunuhan,\" tegasnya.\n\nAkibat fotonya yang dimuat di sebuah media mainstream dengan narasi sebagai pelaku pembunuhan bayi, diakui VA berdampak kepada kondisi psikis dirinya.\n\nIa merasa tertekan setelah foto dengan narasi merugikan itu tersebar dan diketahui oleh keluarga dan tetangganya.\n\n\"Aku rugi gak cuma ke aku. Keluarga, sanak saudara kena dampak juga. Keluar rumah ada rasa malu. Sekitar rumahku udah tahu juga soal berita (bohong itu),\" jelasnya.",
+      "imgUrl": "https://asset-2.tstatic.net/jogja/foto/bank/images/Fotonya-Dijadikan-Ilustrasi-Pembunuh-Bayi-Biduan-di-Jogja-Laporkan-Kru-Media-Nasional-ke-Polda-DIY.jpg",
+      "createdAt": "2023-07-11T09:28:49.147Z",
+      "updatedAt": "2023-07-11T09:28:49.147Z",
+      "categoryId": 1,
+      "authorId": 2,
+      "id": 21
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+      "id": 3,
+      "name": "Category 3",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+        "id": 4,
+        "name": "Category 4",
+        "createdAt": "2023-07-09T01:03:44Z",
+        "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+        "id": 5,
+        "name": "Category 5",
+        "createdAt": "2023-07-09T01:03:44Z",
+        "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+        "id": 6,
+        "name": "Category 6",
+        "createdAt": "2023-07-09T01:03:44Z",
+        "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+        "id": 7,
+        "name": "Category 7",
+        "createdAt": "2023-07-09T01:03:44Z",
+        "updatedAt": "2023-07-09T01:03:44Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": "1",
+      "name": "tag1",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+      "id": 2,
+      "postId": "2",
+      "name": "tag2",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+      "id": 3,
+      "postId": "3",
+      "name": "tag3",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": "1",
+      "role": "admin",
+      "phoneNumber": "0812345678",
+      "address": "Somewhere",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@mail.com",
+      "password": "2",
+      "role": "user",
+      "phoneNumber": "08123456789",
+      "address": "Somewhere",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "email": "user3@mail.com",
+      "password": "3",
+      "role": "user",
+      "phoneNumber": "081234567890",
+      "address": "Somewhere",
+      "createdAt": "2023-07-09T01:03:44Z",
+      "updatedAt": "2023-07-09T01:03:44Z"
+    }
+  ]
+}
