@@ -98,7 +98,7 @@ class Controller {
         try {
             const {id} = req.params;
             const data = await Post.findByPk(id, {
-                include: [Tag, User]
+                include: [Tag, User, Category]
             });
             if (!data) throw {name: "NotFound"};
 
