@@ -3,6 +3,9 @@ const redis = require('../config/redisConfig')
 const appBaseUrl = "http://app-service-container:4002/pub"
 const usersBaseUrl = "http://users-service-container:4001"
 
+// const appBaseUrl = "http://localhost:4002/pub"
+// const usersBaseUrl = "http://localhost:4001"
+
 const typeDefs = `#graphql
     type Post {
         id: ID
@@ -74,9 +77,16 @@ const resolvers = {
     Query: {
         getPosts: async () => {
             try {
-                const { data } = await axios({url: appBaseUrl + "/posts"})
-                // data.id = String(data.id)
-                return data
+                const postsCache = await redis.get("posts");
+
+                if (postsCache) {
+                    const data = JSON.parse(postsCache);
+                    return data;
+                } else {
+                    const { data } = await axios.get(appBaseUrl + "/posts");
+                    await redis.set("posts", JSON.stringify(data))
+                    return data
+                }
             } catch (err) {
                 console.log(err)
                 throw err
@@ -106,7 +116,7 @@ const resolvers = {
                     },
                     data: JSON.stringify(args.postInput)
                 })
-
+                await redis.del('posts')
                 return data
             } catch (err) {
                 console.log(err)
@@ -123,7 +133,7 @@ const resolvers = {
                     },
                     data: JSON.stringify(args.postInput)
                 })
-
+                await redis.del('posts')
                 return data
             } catch (err) {
                 console.log(err)
@@ -136,7 +146,7 @@ const resolvers = {
                     url: appBaseUrl + "/posts/" + args.id,
                     method: "DELETE"
                 })
-
+                await redis.del('posts')
                 return data
             } catch (err) {
                 console.log(err)

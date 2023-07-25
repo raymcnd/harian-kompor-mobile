@@ -77,14 +77,17 @@ class Controller {
             }
 
             const newPost = await Post.create({title, slug, content, imgUrl, categoryId, authorId, authorMongoId}, {transaction})
-            const tagsToCreate = tags.map(e => {
-                return {
-                    name: e,
-                    postId: newPost.id
-                }
-            })
-            
-            await Tag.bulkCreate(tagsToCreate, {transaction})
+            if (tags) {
+                const tagsToCreate = tags.map(e => {
+                    return {
+                        name: e,
+                        postId: newPost.id
+                    }
+                })
+                
+                await Tag.bulkCreate(tagsToCreate, {transaction})
+            }
+
             const successMsg = `New post #${newPost.id} with title '${newPost.title.substring(0, 12)}'... added`
 
             await transaction.commit()
@@ -124,16 +127,18 @@ class Controller {
 
             await data.update({title, slug, content, imgUrl, categoryId});
             
-            await Tag.destroy({where: {
-                postId: id
-            }})
-            const tagsObj = tags.map(e => {
-                return {
-                    postId: id,
-                    name: e
-                }
-            })
-            await Tag.bulkCreate(tagsObj)
+            if (tags) {
+                await Tag.destroy({where: {
+                    postId: id
+                }})
+                const tagsObj = tags.map(e => {
+                    return {
+                        postId: id,
+                        name: e
+                    }
+                })
+                await Tag.bulkCreate(tagsObj)
+            }
 
             res.status(200).json({message: `Post #${id} updated`});
         } catch (err) {
