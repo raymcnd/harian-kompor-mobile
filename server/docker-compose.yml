@@ -1,0 +1,24 @@
+services:
+  app-service-container:
+    image: app-service-img
+    build: ./services/app
+    ports:
+      - "4002:4002"
+    environment:
+      PORT: 4002
+      NODE_ENV: production
+      DATABASE_URL: postgresql://postgres:UohPunUS39frtP1r@db.hqxtqclqyfvxkbkfigvn.supabase.co:5432/postgres
+  users-service-container:
+    image: users-service-img
+    build: ./services/users
+    ports:
+      - "4001:4001"
+    environment:
+      PORT: 4001
+  orchestrator-container:
+    image: orchestrator-img
+    build: ./orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      PORT: 4000
