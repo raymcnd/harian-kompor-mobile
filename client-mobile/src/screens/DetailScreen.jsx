@@ -1,32 +1,10 @@
 import { ActivityIndicator, Image, ScrollView, Text, View } from "react-native";
-import { useQuery, gql } from "@apollo/client";
+import { useQuery } from "@apollo/client";
 import { SafeAreaView } from "react-native-safe-area-context";
 import TagLabel from "../components/TagLabel";
 import moment from "moment/moment";
+import { GET_POST } from "../queries/productQuery";
 
-
-const GET_POST = gql`
-    query GetPostById($getPostByIdId: ID!) {
-        getPostById(id: $getPostByIdId) {
-            id
-            title
-            content
-            imgUrl
-            categoryId
-            authorMongoId
-            authorMongo {
-                username
-            }
-            createdAt
-            Category {
-                name
-            }
-            Tags {
-                name
-            }
-        }
-    }
-`
 export default function DetailScreen({ route }) {
     const { loading, error, data } = useQuery(GET_POST, {
         variables: {

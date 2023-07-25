@@ -53,8 +53,8 @@ const typeDefs = `#graphql
     input PostInput {
         title: String!
         content: String!
-        imgUrl: String!
-        categoryId: String!
+        imgUrl: String
+        categoryId: String
         tags: [String]
     }
 
