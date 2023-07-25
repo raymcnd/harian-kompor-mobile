@@ -45,8 +45,7 @@ export default function DetailScreen({ route }) {
     }
 
     const { getPostById: post } = data
-    console.log(post.createdAt)
-    console.log(formatDate(new Date(post.createdAt)))
+
     return (
         <ScrollView>
                 <Text style={{fontSize: 28, fontWeight: "600", marginTop: 15, paddingHorizontal: "5%"}}>{ post.title }</Text>
