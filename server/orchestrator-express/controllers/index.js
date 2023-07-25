@@ -42,7 +42,7 @@ class Controller {
                 method: "POST",
                 data: {title, content, imgUrl, categoryId, tags}
             })
-
+            await redis.del('posts')
             res.status(201).json({message: data})
         } catch (err) {
             next(err)
@@ -57,7 +57,7 @@ class Controller {
                 method: "PUT",
                 data: {title, content, imgUrl, categoryId, tags}
             })
-
+            await redis.del('posts')
             res.status(200).json({message: data})
         } catch (err) {
             next(err)
@@ -70,7 +70,7 @@ class Controller {
                 url: appBaseUrl + "/posts/" + req.params.id,
                 method: "DELETE"
             })
-
+            await redis.del('posts')
             res.status(200).json({message: data})
         } catch (err) {
             console.log(err)
