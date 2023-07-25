@@ -1,7 +1,7 @@
 const axios = require('axios')
-
-const appBaseUrl = "http://localhost:4002/pub"
-const usersBaseUrl = "http://localhost:4001"
+const redis = require('../config/redisConfig')
+const appBaseUrl = "http://app-service-container:4002/pub"
+const usersBaseUrl = "http://users-service-container:4001"
 
 const typeDefs = `#graphql
     type User {
@@ -23,16 +23,16 @@ const typeDefs = `#graphql
     }
 
     input NewUser {
-        username: String
-        email: String
-        password: String
-        role: String
+        username: String!
+        email: String!
+        password: String!
         phoneNumber: String
         address: String
     }
 
     type Mutation {
         addUser(newUser: NewUser): Message
+        deleteUser(id: ID!): Message
     }
 `;
 
@@ -55,12 +55,38 @@ const resolvers = {
                 console.log(err)
                 throw err
             }
-        },
+        }
     },
     Mutation: {
         addUser: async(_, args) => {
-            console.log(args)
-            return {message: "Masuk"}
+            try {
+                const { data } = await axios({
+                    url: usersBaseUrl + "/users",
+                    method: "POST",
+                    headers: {
+                        "Content-type": "application/json"
+                    },
+                    data: JSON.stringify(args.newUser)
+                })
+
+                return data
+            } catch (err) {
+                console.log(err)
+                throw err
+            }
+        },
+        deleteUser: async(_, args) => {
+            try {
+                const { data } = await axios({
+                    url: usersBaseUrl + "/users/" + args.id,
+                    method: "DELETE",
+                })
+        
+                return data
+            } catch (err) {
+                console.log(err)
+                throw err
+            }
         }
     }
 }

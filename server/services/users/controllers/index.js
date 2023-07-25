@@ -32,7 +32,7 @@ class Controller {
             const data = await User.create({
                 username, email, password, role: "admin", phoneNumber, address
             })
-            res.status(201).json(`User _id: ${data.insertedId} created`)
+            res.status(201).json({message: `User _id: ${data.insertedId} created`})
         } catch (err) {
             next(err)
         }
@@ -42,7 +42,7 @@ class Controller {
         try {
             const { id } = req.params
             await User.destroy(id)
-            res.status(200).json(`User _id: ${id} deleted`)
+            res.status(200).json({message: `User _id: ${id} deleted`})
         } catch (err) {
             next(err)   
         }

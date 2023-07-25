@@ -19,9 +19,9 @@ Target:
 
 - [x] Memahami `react-native` dan `expo`
 - [x] Install `expo-cli` & `expo init` & setup project mobile
-- [ ] Mencoba component Text, View, Image, StyleSheet, Button, ScrollView, FlatList
-- [ ] Mencoba useState, useEffect dalam react-native
-- [ ] Hit API server yang sudah dibuat untuk mendapatkan data
+- [x] Mencoba component Text, View, Image, StyleSheet, Button, ScrollView, FlatList
+- [x] Mencoba useState, useEffect dalam react-native
+- [x] Hit API server yang sudah dibuat untuk mendapatkan data
 - [x] Mengetahui bahwa redux & redux-thunk bisa diimplementasi di react-native
 - [x] Memahami `react-native-navigation`
 - [x] Memahami Stack Navigation & Tab Navigation
@@ -48,12 +48,12 @@ Target:
 
 Target:
 
-- [ ] Membuat Server Baru, Microservices
-- [ ] Memisahkan service user dan app
-- [ ] Membuat Orchestrator-express yang bisa komunikasi ke service user dan app
-- [ ] Memahami cache dalam database
-- [ ] Install dataabase Redis dan menggunakan ioRedis sebagai cache
-- [ ] Menjaga relasi User dengan product pada microservice
+- [x] Membuat Server Baru, Microservices
+- [x] Memisahkan service user dan app
+- [x] Membuat Orchestrator-express yang bisa komunikasi ke service user dan app
+- [x] Memahami cache dalam database
+- [x] Install dataabase Redis dan menggunakan ioRedis sebagai cache
+- [x] Menjaga relasi User dengan product pada microservice
 
 **Report:**
 
@@ -63,13 +63,13 @@ Target:
 
 Target:
 
-- [ ] Memahami GraphQL dan tahu perbedaan dengan RESTful API
-- [ ] Membuat Orchestrator dengan menggunakan GraphQL
-- [ ] Memahami Typedefs, Resolvers
-- [ ] Mampu membuat Query dan Mutation
-- [ ] Menggunakan redis pada graphql untuk kebutuhan cache server
-- [ ] Memahami Apollo-Client & Implementasi pada mobile apps
-- [ ] Memahami cache pada Apollo-Client
+- [x] Memahami GraphQL dan tahu perbedaan dengan RESTful API
+- [x] Membuat Orchestrator dengan menggunakan GraphQL
+- [x] Memahami Typedefs, Resolvers
+- [x] Mampu membuat Query dan Mutation
+- [x] Menggunakan redis pada graphql untuk kebutuhan cache server
+- [x] Memahami Apollo-Client & Implementasi pada mobile apps
+- [x] Memahami cache pada Apollo-Client
 
 **Report:**
 

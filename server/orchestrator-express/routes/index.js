@@ -9,6 +9,10 @@ router.get('/', async (req, res) => {
 
 router.get("/posts", Controller.readPosts);
 router.get("/posts/:id", Controller.readPostById);
+router.post("/posts", Controller.createPost);
+router.put("/posts/:id", Controller.updatePost);
+router.delete("/posts/:id", Controller.deletePost);
+
 
 router.get("/users", Controller.readUsers);
 router.get("/users/:id", Controller.readUserById)

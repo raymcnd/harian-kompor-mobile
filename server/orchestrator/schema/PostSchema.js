@@ -1,7 +1,7 @@
 const axios = require('axios')
-
-const appBaseUrl = "http://localhost:4002/pub"
-const usersBaseUrl = "http://localhost:4001"
+const redis = require('../config/redisConfig')
+const appBaseUrl = "http://app-service-container:4002/pub"
+const usersBaseUrl = "http://users-service-container:4001"
 
 const typeDefs = `#graphql
     type Post {
@@ -24,6 +24,7 @@ const typeDefs = `#graphql
         categoryId: String
         authorMongoId: String
         authorMongo: Author
+        createdAt: String
         Category: Category
         Tags: [Tag]
     }
@@ -49,9 +50,23 @@ const typeDefs = `#graphql
         message: String
     }
 
+    input PostInput {
+        title: String!
+        content: String!
+        imgUrl: String
+        categoryId: String
+        tags: [String]
+    }
+
     type Query {
         getPosts: [Post]
         getPostById(id: ID!): PostDetail
+    }
+
+    type Mutation {
+        addPost(postInput: PostInput): Message
+        updatePost(id:ID!, postInput: PostInput): Message
+        deletePost(id: ID): Message
     }
 `;
 
@@ -78,14 +93,57 @@ const resolvers = {
                 console.log(err)
                 throw err
             }
-        }
+        },
     },
-    // Mutation: {
-    //     addUser: async(_, args) => {
-    //         console.log(args)
-    //         return {message: "Masuk"}
-    //     }
-    // }
+    Mutation: {
+        addPost: async(_, args) => {
+            try {
+                const { data } = await axios({
+                    url: appBaseUrl + "/posts",
+                    method: "POST",
+                    headers: {
+                        "Content-type": "application/json"
+                    },
+                    data: JSON.stringify(args.postInput)
+                })
+
+                return data
+            } catch (err) {
+                console.log(err)
+                throw err
+            }
+        },
+        updatePost: async(_, args) => {
+            try {
+                const { data } = await axios({
+                    url: appBaseUrl + "/posts/" + args.id,
+                    method: "PUT",
+                    headers: {
+                        "Content-type": "application/json"
+                    },
+                    data: JSON.stringify(args.postInput)
+                })
+
+                return data
+            } catch (err) {
+                console.log(err)
+                throw err
+            }
+        },
+        deletePost: async(_, args) => {
+            try {
+                const { data } = await axios({
+                    url: appBaseUrl + "/posts/" + args.id,
+                    method: "DELETE"
+                })
+
+                return data
+            } catch (err) {
+                console.log(err)
+                throw err
+            }
+        }
+    }
 }
 
 module.exports = [typeDefs, resolvers]

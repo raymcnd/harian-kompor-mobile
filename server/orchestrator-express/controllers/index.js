@@ -34,6 +34,51 @@ class Controller {
         }
     }
 
+    static async createPost(req, res, next) {
+        try {
+            const {title, content, imgUrl, categoryId, tags} = req.body
+            const { data } = await axios({
+                url: appBaseUrl + "/posts",
+                method: "POST",
+                data: {title, content, imgUrl, categoryId, tags}
+            })
+
+            res.status(201).json({message: data})
+        } catch (err) {
+            next(err)
+        }
+    }
+
+    static async updatePost(req, res, next) {
+        try {
+            const {title, content, imgUrl, categoryId, tags} = req.body
+            const { data } = await axios({
+                url: appBaseUrl + "/posts/" + req.params.id,
+                method: "PUT",
+                data: {title, content, imgUrl, categoryId, tags}
+            })
+
+            res.status(200).json({message: data})
+        } catch (err) {
+            next(err)
+        }
+    }
+
+    static async deletePost(req, res, next) {
+        try {
+            const { data } = await axios({
+                url: appBaseUrl + "/posts/" + req.params.id,
+                method: "DELETE"
+            })
+
+            res.status(200).json({message: data})
+        } catch (err) {
+            console.log(err)
+            throw err
+        }
+    }
+
+
     static async readUsers(req, res, next) {
         try {
             const usersCache = await redis.get("users");
