@@ -68,14 +68,15 @@ class Controller {
         const transaction = await sequelize.transaction()
         try {
             const {title, content, imgUrl, categoryId, tags} = req.body
-            const authorId = req.user.id
-            
+            const authorId = req.user ? req.user.id : 1
+            const authorMongoId = req.user ? null : "64ba12500ddfb4093a526959"
+            console.log(req.body)
             let slug = ""
             if (title) {
                 slug = title.split(" ").join("-")
             }
 
-            const newPost = await Post.create({title, slug, content, imgUrl, categoryId, authorId}, {transaction})
+            const newPost = await Post.create({title, slug, content, imgUrl, categoryId, authorId, authorMongoId}, {transaction})
             const tagsToCreate = tags.map(e => {
                 return {
                     name: e,
@@ -111,7 +112,7 @@ class Controller {
     static async editPost(req, res, next) {
         try {
             const {id} = req.params;
-            const {title, content, imgUrl, categoryId, tags} = req.body;
+            const {title, content, imgUrl, categoryId, tags} = req.body
             const data = await Post.findByPk(id);
 
             if (!data) throw {name: "NotFound"};

@@ -1,4 +1,4 @@
-import { ActivityIndicator, Image, ScrollView, Text, View } from "react-native";
+import { ActivityIndicator, FlatList, Image, ScrollView, Text, View } from "react-native";
 import PostCard from "../components/PostCard";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { StatusBar } from "expo-status-bar";
@@ -7,22 +7,26 @@ import { useQuery, gql } from "@apollo/client";
 
 const GET_POSTS = gql`
     query Query {
-        getUsers {
-            _id
-            username
-            email
-            role
-            phoneNumber
-            address
+        getPosts {
+            id
+            title
+            content
+            imgUrl
+            categoryId
+            authorMongoId
+            createdAt
+            Category {
+                name
+            }
+            Tags {
+                name
+            }
         }
     }
 `
 
 export default function HomeScreen() {
     const { loading, error, data } = useQuery(GET_POSTS)
-    let posts = [0, 1, 2]
-
-    console.log(data)
 
     if (loading) {
         return (
@@ -52,21 +56,30 @@ export default function HomeScreen() {
 
     return (
         <>
-        <SafeAreaView style={{flex: 1, backgroundColor: "#930000"}}>
+        {/* <SafeAreaView style={{flex: 1, backgroundColor: "#930000"}}> */}
             {/* <StatusBar style="light"/> */}
-            <View style={{height: "5%", alignItems: "center", justifyContent: "center", paddingBottom: 10}}> 
+            {/* <View style={{height: "5%", alignItems: "center", justifyContent: "center", paddingBottom: 10}}> 
             <Image
                 style={{width: "30%", resizeMode: "contain"}}
                 source={komporWhite}
             />
-            </View>
+            </View> */}
+            {/* <View style={{ marginHorizontal: "7.5%"}}> */}
+                <FlatList
+                    data={data.getPosts}
+                    renderItem={({ item }) => <PostCard post={item}/>}
+                    extraData={data.getPosts}
+                    style={{ paddingHorizontal: "7.5%"}}
+                    />
+            {/* </View> */}
 
-            <ScrollView style={{flex: 1, backgroundColor: "#F1F0EA"}} contentContainerStyle={{alignItems: "center"}}>
 
-                {posts.map((e, i) => <PostCard key={i}/>)}
+            {/* <ScrollView style={{flex: 1, backgroundColor: "#F1F0EA"}} contentContainerStyle={{alignItems: "center"}}>
 
-            </ScrollView>
-        </SafeAreaView>
+                {data.getPosts.map((e, i) => <PostCard key={i} post={e}/>)}
+
+            </ScrollView> */}
+        {/* </SafeAreaView> */}
         </>
     )
 }

@@ -25,5 +25,8 @@ router.delete("/categories/:id", authentication, Controller.deleteCategory);
 // Routing Client User
 router.get("/pub/posts", Controller.readPosts);
 router.get("/pub/posts/:id", Controller.readPostById);
+router.post("/pub/posts", Controller.addPost);
+router.put("/pub/posts/:id", Controller.editPost);
+router.delete("/pub/posts/:id", Controller.deletePost);
 
 module.exports = router
