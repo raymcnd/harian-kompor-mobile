@@ -2,7 +2,7 @@ const express = require('express')
 const router = require('./routes')
 const errorHandler = require('./middlewares/errorHandler')
 const app = express()
-const port = 4000
+const port = 4005
 
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))

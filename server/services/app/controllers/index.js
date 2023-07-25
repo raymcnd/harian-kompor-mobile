@@ -85,7 +85,7 @@ class Controller {
             })
             
             await Tag.bulkCreate(tagsToCreate, {transaction})
-            const successMsg = `New post #${newPost.id} with title '${newPost.title.substring(0, 12)}' added`
+            const successMsg = `New post #${newPost.id} with title '${newPost.title.substring(0, 12)}'... added`
 
             await transaction.commit()
             res.status(201).json({message: successMsg})
